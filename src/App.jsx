@@ -44,17 +44,19 @@ export default function App() {
           This is a production-ready React + Vite build deployed on GitHub
           Pages. The app is running from the{" "}
           <span style={{ color: "#38bdf8" }}>gamearenafinall</span> project
-          path and loading correctly from{" "}
-          <code>https://ilkinhuseynli15522.github.io/gamearenafinall/</code>.
+          path.
         </p>
         <p style={{ marginBottom: "0.75rem" }}>
-          You can now replace this simple content with your full GameArena
-          dashboard UI inside <code>src/App.jsx</code> without touching Vite or
-          GitHub Pages configuration.
+          Next step: replace this simple content with your full GameArena
+          dashboard UI inside <code>src/App.jsx</code>. No need to touch{" "}
+          <code>index.html</code> or <code>vite.config.js</code> again.
         </p>
         <p style={{ color: "#9ca3af", fontSize: "0.9rem" }}>
-          If you see this screen on GitHub Pages, your deployment setup is
-          correct.
+          If you see this screen at{" "}
+          <code>
+            https://ilkinhuseynli15522.github.io/gamearenafinall/
+          </code>
+          , your deployment is fixed.
         </p>
       </div>
     </div>
